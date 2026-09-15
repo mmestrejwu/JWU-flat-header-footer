@@ -1110,7 +1110,9 @@ input:not([type]) {
 		width:100%;
 	}
 }
-<!--JWU website redesign styles --> body {
+
+/* JWU website redesign styles */
+body {
 	margin:0;
 }
 .jwu-site-header *,
