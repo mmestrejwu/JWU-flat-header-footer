@@ -139,7 +139,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'%26l='+l:'';j.async=true;j.src=
                           <a href="https://www.jwu.edu/about/university-leadership/">University Leadership</a>
                           <a href="https://www.jwu.edu/about/community-offerings/">Community Offerings</a>
                           <a href="https://www.jwu.edu/about/sustainability/">Sustainability</a>
-                          <a href="https://www.jwu.edu/about/offices-departments/">Offices, Departments &amp; Services</a>
+                          <a href="https://www.jwu.edu/about/offices-departments/">Offices &amp; Departments</a>
                           <a href="https://www.jwu.edu/alumni/">Alumni</a>
                           <a href="https://www.jwu.edu/about/jobs/">Working at JWU</a>
                           <a href="https://www.jwu.edu/about/policies/">Policies &amp; Standards</a>
