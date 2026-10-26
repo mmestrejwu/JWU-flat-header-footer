@@ -67,6 +67,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'%26l='+l:'';j.async=true;j.src=
                         <div class="jwu-submenu">
                           <a href="https://www.jwu.edu/academics/">Academics Overview</a>
                           <a href="https://www.jwu.edu/academics/majors-and-programs/">Majors &amp; Programs</a>
+                          <a href="https://www.jwu.edu/academics/three-year-degree/">Three-Year Bachelor's Degree</a>
                           <a href="https://www.jwu.edu/academics/accelerated-masters/">Accelerated Programs</a>
                           <a href="https://www.jwu.edu/academics/experiential-education/">Experiential Education &amp; Career Services</a>
                           <a href="https://www.jwu.edu/academics/academic-support/">Academic Support</a>
@@ -119,8 +120,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'%26l='+l:'';j.async=true;j.src=
                         </label>
                         <div class="jwu-submenu">
                           <a href="https://www.jwu.edu/campuses/">Campuses Overview</a>
-                          <a href="https://www.jwu.edu/campuses/providence/">Providence Campus</a>
-                          <a href="https://www.jwu.edu/campuses/charlotte/">Charlotte Campus</a>
+                          <a href="https://www.jwu.edu/campuses/providence/">Rhode Island Campus</a>
+                          <a href="https://www.jwu.edu/campuses/charlotte/">North Carolina Campus</a>
                           <a href="https://online.jwu.edu/">JWU Online</a>
                         </div>
                       </div>
